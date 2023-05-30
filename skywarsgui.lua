@@ -866,9 +866,7 @@ end
 
 local page = venyx:addPage("Credits", 5012544693)
 
-local Credits = page:addSection("Credits - $ 2lix#6568 - offioa on youtube!")
-
-local Credits = page:addSection("Credits - Also credits to DarkLife#0965 for these scripts")
+local Credits = page:addSection("Credits - ExymRBLX on youtube!")
 
 	
 
